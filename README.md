@@ -49,10 +49,10 @@ Pages  → [(103, 2), (105, 1), ...]
 
 ## 📈 Improvements
 
-* API (Flask/FastAPI)
-* Graph visualization
-* NetworkX optimization
-* Web deployment
+* Convert recommendation logic into a REST API for real-time usage
+* Introduce graph-based algorithms (e.g., mutual connection weighting) for improved accuracy
+* Add visualization of user connections to better interpret social relationships
+* Optimize performance for large-scale datasets
 
 ---
 
